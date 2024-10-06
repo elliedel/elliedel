@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Ellie!
-**I'm a Computer Science student from Our Lady of Fatima University - Quezon City, Philippines.**
+#### I'm a Computer Science student from Our Lady of Fatima University - Quezon City, Philippines.
 - 🔭 I’m currently working on a __web-based Cavities detection using YOLOv8 and Flask__
 - 🌱 I’m currently learning __Data Science and Machine Learning__
 - 📫 How to reach me: **ellainedelacruz<span>@</span>proton.me**
