@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Ellie!
-**I'm a Computer Science student from Our Lady of Fatima University - Quezon City, Philippines. **
-- 🔭 I’m currently working on a web-based Cavities detection using YOLOv8
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 📫 How to reach me: **ellainedelacruz@proton.me**
+**I'm a Computer Science student from Our Lady of Fatima University - Quezon City, Philippines.**
+- 🔭 I’m currently working on a __web-based Cavities detection using YOLOv8 and Flask__
+- 🌱 I’m currently learning __Data Science and Machine Learning__
+- 📫 How to reach me: **ellainedelacruz<span>@</span>proton.me**
 <!--
 **elliedel/elliedel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
