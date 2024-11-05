@@ -1,13 +1,13 @@
 ## Hi there 👋, I'm Ellie!
 #### I'm a Computer Science student from Our Lady of Fatima University - Quezon City, Philippines.
-- 🔭 I’m currently working on a __web-based Cavities detection using YOLOv8 and Flask__
+- 🔭 I’m currently working on a __neighborhood food navigator site using React and Firebase__
 - 🌱 I’m currently learning __Data Science and Machine Learning__
 - 📫 How to reach me: **ellainedelacruz<span>@</span>proton.me**
 <!--
 **elliedel/elliedel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... web-based Cavities detection using YOLOv8 and Flask
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
