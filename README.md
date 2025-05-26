@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Ellie!
 #### I'm a Computer Science student from Our Lady of Fatima University - Quezon City, Philippines.
-- 🔭 I’m currently working on a __neighborhood food navigator site using React and Firebase__
-- 🌱 I’m currently learning __Data Science and Machine Learning__
+- 🔭 I’m currently working on an __end-to-end data project__
+- 🌱 I’m currently learning __Cloud and Data Engineering__
 - 📫 How to reach me: **ellainedelacruz<span>@</span>proton.me**
 <!--
 **elliedel/elliedel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
