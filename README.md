@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Ellie!
-#### I'm a Computer Science student from Our Lady of Fatima University - Quezon City, Philippines.
+#### I'm a Python Developer and Aspiring Data Engineer.
 - 🔭 I’m currently working on an __end-to-end data project__
 - 🌱 I’m currently learning __Cloud and Data Engineering__
 - 📫 How to reach me: **ellainedelacruz<span>@</span>proton.me**
