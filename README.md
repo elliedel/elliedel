@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Ellie!
-#### I'm a Python Developer and Aspiring Data Engineer.
+#### I'm an Aspiring Data Scientist.
 - 🔭 I’m currently working on an __end-to-end data project__
-- 🌱 I’m currently learning __Cloud and Data Engineering__
+- 🌱 I’m currently learning __Data Science and Engineering__
 - 📫 How to reach me: **ellainedelacruz<span>@</span>proton.me**
 <!--
 **elliedel/elliedel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
