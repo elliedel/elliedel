@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Ellie!
-#### I'm an Aspiring Data Scientist.
+#### I'm an Aspiring Data Engineer.
 - 🔭 I’m currently working on an __end-to-end data project__
 - 🌱 I’m currently learning __Data Science and Engineering__
 - 📫 How to reach me: **ellainedelacruz<span>@</span>proton.me**
